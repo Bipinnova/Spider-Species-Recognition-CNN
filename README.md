@@ -62,7 +62,7 @@ Dataset/
 
 Clone the repository:
 
-git clone https://github.com/yourusername/Spider-Species-Recognition-CNN.git
+git clone https://github.com/Bipinnova/Spider-Species-Recognition-CNN.git
 
 Navigate to the project folder:
 
